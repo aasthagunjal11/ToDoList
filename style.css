@@ -1,0 +1,9 @@
+*{
+    color: aliceblue;
+}
+input::placeholder{
+    color: aliceblue;
+}
+.bg-gradient{
+    background-image: linear-gradient();
+}
